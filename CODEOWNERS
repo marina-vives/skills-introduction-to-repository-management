@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @marina-vives
+/src/backend/database.py      @marina-vives
+/src/backend/routers/auth.py  @marina-vives
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @marina-vives
